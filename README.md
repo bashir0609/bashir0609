@@ -73,12 +73,12 @@ My delivery is a Dockerized, Fault-Tolerant System, not a `.py` file.
 
 ## 🚀 Production Systems Built
 
-### 📡 [Enflow - Distributed Data Enrichment Engine]()
+### 📡 [Enflow - Distributed Data Enrichment Engine](https://enflowpy.vercel.app/)
 **Architecture**: Django 5, Redis, Celery, Docker
 *   **The System**: An orchestration layer integrating 5+ external Data APIs (Apollo, Hunter, etc.).
 *   **Key Engineering**: Implemented "Cost-Least-Routing" algorithms and smart queue systems handling 50k+ daily transaction spikes with 99.9% availability.
 
-### 🕸️ [ScrapeHub - Universal E-Commerce Extraction]()
+### 🕸️ [ScrapeHub - Universal E-Commerce Extraction](https://scrapehub.onrender.com/)
 **Architecture**: Python, Playwright, BeautifulSoup, PostgreSQL
 *   **The System**: A modular extraction engine for unstructured e-commerce HTML.
 *   **Key Engineering**: built a "Visual Selector Engine" for non-technical teams and integrated Dynamic Schema detection for JSON-LD parsing.
