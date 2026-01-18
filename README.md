@@ -95,6 +95,7 @@ Design, optimize, and manage databases for high-performance data storage.
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![Crawlee](https://img.shields.io/badge/Crawlee-333333?style=for-the-badge&logo=crawlee&logoColor=white)
 
 ### 💾 Storage & Messaging
 
